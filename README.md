@@ -20,6 +20,8 @@ Table of Contents
 * [Basics](#basics)
 * [Projects](#projects)
     * [Sunscreen](#sunscreen)
+* [Advanced Topics](#advanced-topics)
+    * [Fully Homomorphic Encryption](#fully-homomorphic-encryption)
 
 ## Basics
 - [(Why) Bringing Privacy to Smart Contracts is Non-trivial](https://blog.nucypher.com/bringing-privacy-to-smart-contracts-is-nontrivial/#:~:text=Unfortunately%2C%20Ethereum's%20smart%20contracts%20do,%2C%20the%20users%20involved%2C%20etc.)
@@ -29,3 +31,8 @@ Table of Contents
 ### Sunscreen
 * [Overview](https://github.com/nucypher/Sunscreen_public)
 * [Official Site](https://sunscreen.tech)
+
+## Advanced Topics
+
+### Fully Homomorphic Encryption
+* [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.nucypher.com/an-engineers-guide-to-fully-homomorphic-encryption/)
