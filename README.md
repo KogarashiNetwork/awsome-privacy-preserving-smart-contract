@@ -27,6 +27,7 @@ Table of Contents
         * [Secret Network](#secret-network)
 * [Advanced Topics](#advanced-topics)
     * [Fully Homomorphic Encryption](#fully-homomorphic-encryption)
+    * [Indistinguishability Obfuscator](#indistinguishability-obfuscator)
 
 ## Basics
 - [(Why) Bringing Privacy to Smart Contracts is Non-trivial](https://blog.nucypher.com/bringing-privacy-to-smart-contracts-is-nontrivial/#:~:text=Unfortunately%2C%20Ethereum's%20smart%20contracts%20do,%2C%20the%20users%20involved%2C%20etc.)
@@ -45,7 +46,7 @@ Table of Contents
 * [Paper](https://origo.network/whitepaper)
 
 #### Zero Network
-* [Paper]()
+* [Site](https://github.com/zero-network)
 
 ### Trusted Execution Environment
 
@@ -57,4 +58,8 @@ Table of Contents
 ## Advanced Topics
 
 ### Fully Homomorphic Encryption
-* [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.nucypher.com/an-engineers-guide-to-fully-homomorphic-encryption/)
+* [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.nucypher.com/an-engineers-guide-to-fully-homomorphic-encryption)
+* [Short Discrete Log Proofs for FHT and Ring-LWE Ciphertexts](https://eprint.iacr.org/2019/057.pdf)
+
+### Indistinguishability Obfuscator
+* [Cryptography Breakthrough Could Make Software Unhackable](https://www.wired.com/2014/02/cryptography-breakthrough)
