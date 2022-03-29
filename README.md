@@ -21,6 +21,7 @@ Table of Contents
 * [Projects](#projects)
     * [Zero Knowledge Proof](#zero-knowledge-proof)
         * [Sunscreen](#sunscreen)
+        * [Origo Network](#origo-network)
     * [Trusted Execution Environment](#trusted-execution-environment)
         * [Secret Network](#secret-network)
 * [Advanced Topics](#advanced-topics)
@@ -37,6 +38,10 @@ Table of Contents
 #### Sunscreen
 * [Overview](https://blog.nucypher.com/sunscreen)
 * [Site](https://sunscreen.tech)
+
+#### Origo Network
+* [Site](https://origo.network/)
+* [Paper](https://origo.network/whitepaper)
 
 ### Trusted Execution Environment
 
