@@ -22,6 +22,7 @@ Table of Contents
     * [Zero Knowledge Proof](#zero-knowledge-proof)
         * [Sunscreen](#sunscreen)
         * [Origo Network](#origo-network)
+        * [Zero Network](#zero-network)
     * [Trusted Execution Environment](#trusted-execution-environment)
         * [Secret Network](#secret-network)
 * [Advanced Topics](#advanced-topics)
@@ -42,6 +43,9 @@ Table of Contents
 #### Origo Network
 * [Site](https://origo.network/)
 * [Paper](https://origo.network/whitepaper)
+
+#### Zero Network
+* [Paper]()
 
 ### Trusted Execution Environment
 
