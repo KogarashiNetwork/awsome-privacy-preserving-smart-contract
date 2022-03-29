@@ -22,20 +22,28 @@ Table of Contents
     * [Zero Knowledge Proof](#zero-knowledge-proof)
         * [Sunscreen](#sunscreen)
     * [Trusted Execution Environment](#trusted-execution-environment)
+        * [Secret Network](#secret-network)
 * [Advanced Topics](#advanced-topics)
     * [Fully Homomorphic Encryption](#fully-homomorphic-encryption)
 
 ## Basics
 - [(Why) Bringing Privacy to Smart Contracts is Non-trivial](https://blog.nucypher.com/bringing-privacy-to-smart-contracts-is-nontrivial/#:~:text=Unfortunately%2C%20Ethereum's%20smart%20contracts%20do,%2C%20the%20users%20involved%2C%20etc.)
+- [Introduction to Privacy-Preserving Smart Contracts](https://juliankoh.medium.com/introduction-to-privacy-preserving-smart-contracts-e7bdc1a121b1)
 
 ## Projects
 
 ### Zero Knowledge Proof
+
 #### Sunscreen
-* [Overview](https://github.com/nucypher/Sunscreen_public)
-* [Official Site](https://sunscreen.tech)
+* [Overview](https://blog.nucypher.com/sunscreen)
+* [Site](https://sunscreen.tech)
 
 ### Trusted Execution Environment
+
+#### Secret Network
+* [Overview](https://scrt.network/about/about-secret-network)
+* [Site](https://scrt.network/)
+* [Paper](https://scrt.network/graypaper)
 
 ## Advanced Topics
 
