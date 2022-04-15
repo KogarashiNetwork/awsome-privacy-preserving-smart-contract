@@ -19,6 +19,7 @@ Table of Contents
         * [Zero Network](#zero-network)
         * [Zether](#zether)
         * [Zexe](#zexe)
+        * [NuCypher](#nucypher)
     * [Trusted Execution Environment](#trusted-execution-environment)
         * [Secret Network](#secret-network)
 * [Advanced Topics](#advanced-topics)
@@ -49,6 +50,9 @@ Table of Contents
 
 #### Zexe
 * [Paper](https://eprint.iacr.org/2018/962.pdf)
+
+#### NuCypher
+* [Site](https://www.nucypher.com/)
 
 ### Trusted Execution Environment
 
