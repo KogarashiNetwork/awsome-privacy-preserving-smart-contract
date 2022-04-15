@@ -4,12 +4,6 @@
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     </a>
-    <a href="https://github.com/zero-network/awesome-privacy-preserving-smart-contract/graphs/contributors">
-      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/zero-network/awesome-privacy-preserving-smart-contract">
-    </a>
-    <a href="http://makeapullrequest.com">
-      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    </a>
   </p>
 
   <p align="center">A curated list of awesome PPSC resources, libraries, tools and more.</p>
@@ -23,6 +17,8 @@ Table of Contents
         * [Sunscreen](#sunscreen)
         * [Origo Network](#origo-network)
         * [Zero Network](#zero-network)
+        * [Zether](#zether)
+        * [Zexe](#zexe)
     * [Trusted Execution Environment](#trusted-execution-environment)
         * [Secret Network](#secret-network)
 * [Advanced Topics](#advanced-topics)
@@ -47,6 +43,12 @@ Table of Contents
 
 #### Zero Network
 * [Site](https://github.com/zero-network)
+
+#### Zether
+* [Paper](https://crypto.stanford.edu/~buenz/papers/zether.pdf)
+
+#### Zexe
+* [Paper](https://eprint.iacr.org/2018/962.pdf)
 
 ### Trusted Execution Environment
 
