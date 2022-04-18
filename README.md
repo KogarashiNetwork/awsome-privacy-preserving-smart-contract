@@ -44,6 +44,7 @@ Table of Contents
 
 #### Zero Network
 * [Site](https://github.com/zero-network)
+* [Light Paper](https://zero-network.github.io/)
 
 #### Zether
 * [Paper](https://crypto.stanford.edu/~buenz/papers/zether.pdf)
